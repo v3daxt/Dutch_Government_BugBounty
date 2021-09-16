@@ -1,0 +1,7 @@
+https://medium.com/@demonhunter/reflected-xss-on-dutch-government-f3eea567b72a
+https://remonsec.medium.com/my-experience-of-hacking-dutch-government-3ef35cdecb08
+https://medium.com/@smilehackerofficial/how-i-hacked-dutch-government-c0af17016dec
+http://sec.ud64.com/story-of-my-hacking-dutch-government-15395.html
+https://www.linkedin.com/pulse/i-hacked-dutch-xss-amal-thamban/
+https://nandtech.co/2018/07/05/hacking-the-dutch-government/
+https://nullpxl.com/post/how-a-simple-bug-can-be-dangerous/
